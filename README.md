@@ -1,6 +1,6 @@
 # Awesome-Articulation-Reconstruction-Works
 
-This is a repo that collects some works about **articulated object reconstruction**. I will also write blog posts some works that contains outstanding approaches. Please post an issue if there are more papers or programs that you recommend. 
+This is a repo that collects some works about **articulated object reconstruction**. I will also write blog posts for some works that contains outstanding approaches. Please post an issue if there are more papers or programs that you recommend. 
 
 **Keywords:** Digital twins, Articulation reconstruction, part-level reconstruction
 
