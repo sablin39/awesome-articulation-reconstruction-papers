@@ -78,3 +78,7 @@ Articulated Object Neural Radiance Field [[Github](https://github.com/zubair-irs
 https://github.com/daerduoCarey/where2act ICCV 2021
 
 [Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning](https://arxiv.org/abs/1609.0514) ICRA 2017
+
+[NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering](https://arxiv.org/pdf/2210.01166.pdf)
+
+https://nvlabs.github.io/watch-it-move/
